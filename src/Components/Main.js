@@ -4,7 +4,7 @@ const Main = ({loaded}) => {
   return (
     <div className='mainWrapper'>
       <div className="main_box">
-          <h4>Gand faar quiz</h4>
+          <h4>Quiz 3.0</h4>
           <ul>
                <li>There area total 10 multuple choice Questions</li>
                <li>For correct answer 5 Marks and -1 for incorrect</li>
